@@ -1,0 +1,19 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-my-affiliate-plugin-my-affiliate-block {
+	background-color: #ffffff;
+	color: #000;
+	padding: 15px;
+	h2{
+		color:#000000;
+	}
+	img.recipe-image{
+		width: 100%;
+		height: auto;
+	}
+}
